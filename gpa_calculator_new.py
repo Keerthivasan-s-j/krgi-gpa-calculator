@@ -6,7 +6,7 @@ import krce
 st.set_page_config(page_title="GPA Calculator", page_icon=":🖥️:")
 
 with st.sidebar:
-    st.title(":green[Calculations]")
+    st.title(":green[Description]")
     st.write(":gray[The calculation methods used to find the grade point average of a person]")
     st.header(":green[Grade point Table]")
     st.write(":gray[The grade point allocation table is shown here]")
